@@ -4,11 +4,11 @@
 
 ## Acerca de este Repositorio
 
-Este repositorio contiene una serie de ejercicios prácticos diseñados para demostrar mi habilidad en el desarrollo con Node.js. Cada carpeta representa un ejercicio individual, con instrucciones claras y el código Node.js asociado.
+Este repositorio contiene una serie de ejercicios prácticos diseñados para demostrar mi habilidad en el desarrollo con Node.js. Cada carpeta representa un ejercicio individual.
 
 ## ¿Cómo Utilizar Este Repositorio?
 
-¡Es muy fácil! Navega por las carpetas para encontrar los ejercicios individuales. Dentro de cada carpeta, encontrarás un archivo con las instrucciones del ejercicio y otro con el código Node.js correspondiente.
+¡Es muy fácil! Navega por las carpetas para encontrar los ejercicios individuales. Dentro de cada carpeta, encontrarás un archivo con las instrucciones del ejercicio y otro con el código correspondiente.
 
 ## Contacto
 

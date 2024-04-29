@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Hadassa Fentanes",
+  "description": "¡Hola! 👋 Te doy la bienvenida a mi repositorio de ejercicios de Node.js como parte del Bootcamp de Develhope. Aquí encontrarás una colección de tareas que estoy completando para mostrar mi progreso en el curso.",
+  "scripts": {
+    "dev": "tsc-watch --noClear -p ./tsconfig.json --onSuccess \"node ./dist/server.js\""
+  },
+  "dependencies": {
+    "@types/passport-jwt": "^4.0.1",
+    "cli-color": "^2.0.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-errors": "^3.1.1",
+    "fastify": "^4.26.2",
+    "figlet": "^1.7.0",
+    "joi": "^17.12.3",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "pg-promise": "^11.6.0",
+    "tsc-watch": "^6.2.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/morgan": "^1.9.9",
+    "@types/multer": "^1.4.11"
+  }
+}
